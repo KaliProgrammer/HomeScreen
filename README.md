@@ -1,8 +1,5 @@
 # HomeScreen - Viper -
 
-
-<img width="344" alt="Screenshot 2023-04-06 at 17 30 28" src="https://user-images.githubusercontent.com/100012767/230408688-111be18a-41ee-41d9-ab8c-e034a7db4996.png">
-
 Category navigation collection is up
 
 <img width="341" alt="Screenshot 2023-04-06 at 17 31 04" src="https://user-images.githubusercontent.com/100012767/230408963-f075bb70-c00b-439e-9a63-9aadf1fbb27d.png">
